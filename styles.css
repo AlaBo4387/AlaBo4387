@@ -1,0 +1,69 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utility classes */
+.mt-1 { margin-top: 1rem; }
+.mb-1 { margin-bottom: 1rem; }
+.p-1 { padding: 1rem; }
+
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+/* Hero section */
+.hero {
+    background: url('hero-image.jpg') no-repeat center center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* About section */
+.about {
+    padding: 2rem;
+    background-color: #f9f9f9;
+}
+
+/* Problem section */
+.problem {
+    padding: 2rem;
+    background-color: #eef;
+}
+
+/* Solution section */
+.solution {
+    padding: 2rem;
+}
+
+/* How it works section */
+.how-it-works {
+    padding: 2rem;
+}
+
+/* Contact section */
+.contact {
+    padding: 2rem;
+    background-color: #f9f9f9;
+}
+
+/* Footer styles */
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+/* Responsive media queries */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+    }
+}
