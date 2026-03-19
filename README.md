@@ -1,15 +1,55 @@
-# GreenLoop — Sustainable Living Made SimpleA clean, modern, and responsive startup landing page built for the **E-Cell RGPV Tech Department Recruitment Task (March 2026)**.---## Project Overview**GreenLoop** is a fictional sustainability startup that helps users reduce their carbon footprint, build eco-friendly habits, and make greener choices in everyday life. This landing page showcases the startup's mission, the problem it solves, and its product features.---## Technologies Used- **HTML5** — Semantic markup- **CSS3** — Custom styles, Flexbox, CSS Grid, responsive design- **JavaScript (Vanilla)** — Mobile menu toggle, form handling, smooth scrollingNo external libraries or frameworks were used.---## Sections Included1. **Home** — Startup name, tagline, and call-to-action buttons  2. **About Us** — Mission, vision, and brief description  3. **Problem Statement** — Real-world problems addressed and target users  4. **Solution** — Product explanation and key features  5. **How It Works** — Step-by-step user journey  6. **Contact** — Email, social links, and a working contact form  ---## Instructions to Run1. Clone this repository:   ```bash   git clone [github.com](https://github.com/your-username/greenloop-landing.git)
-2.	Navigate to the project folder:
-bash
-cd greenloop-landing
-3.	Open index.html in any modern web browser.
-No build tools or server required — it's a single static HTML file.
-________________________________________
-Features
-•	Fully responsive (mobile, tablet, desktop)
-•	Smooth scrolling navigation
-•	Mobile hamburger menu with animation
-•	Contact form with success feedback
-•	Inline SVG illustrations (no external images)
-•	Clean, readable, well-commented code
-________________________________________
+# 🌱 GreenLoop — Sustainable Living Made Simple
+
+A clean, modern, and fully responsive startup landing page built as part of the **E-Cell RGPV Tech Department Recruitment Task (March 2026)**.
+
+---
+
+## 📋 Project Overview
+
+**GreenLoop** is a fictional sustainability startup designed to help users reduce their carbon footprint, build eco-friendly habits, and make greener choices in everyday life. This landing page effectively showcases the startup's mission, addresses real-world environmental challenges, and presents innovative product solutions.
+
+### ✨ Key Highlights
+- 🎯 Zero external dependencies — pure vanilla HTML, CSS, and JavaScript
+- 📱 Fully responsive design across all devices
+- ⚡ Fast-loading static site with optimized performance
+- ♿ Semantic HTML for accessibility
+- 🎨 Modern, clean UI/UX design
+
+---
+
+## 🛠 Technologies Used
+
+| Technology | Purpose |
+|-----------|---------|
+| **HTML5** | Semantic, accessible markup |
+| **CSS3** | Custom styling, Flexbox, CSS Grid, responsive design |
+| **JavaScript (Vanilla)** | Mobile menu toggle, form handling, smooth scrolling |
+
+> **No frameworks or external libraries** — pure vanilla implementation for maximum simplicity and performance.
+
+---
+
+## 📑 Page Sections
+
+1. **🏠 Home** — Eye-catching hero section with startup name, tagline, and prominent call-to-action buttons
+2. **👥 About Us** — Detailed mission statement, vision, and company values
+3. **🚨 Problem Statement** — Real-world environmental challenges and target user persona
+4. **💡 Solution** — Product explanation and core features that differentiate GreenLoop
+5. **🔄 How It Works** — Step-by-step user journey and onboarding process
+6. **📧 Contact** — Email, social media links, and functional contact form with validation
+7. **📞 Footer** — Quick links, social links, and copyright information
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- No additional installations required
+
+### Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AlaBo4387/greenloop-landing.git
+   cd greenloop-landing
